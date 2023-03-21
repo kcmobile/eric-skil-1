@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "auto eric",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": [
+            "sounds good"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
